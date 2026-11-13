@@ -145,8 +145,8 @@ Credito_bancario/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone git@github.com:AbiGuadarrama/credito-bancario.git
-cd credito-bancario
+git clone git@github.com:AbiWorkspace/credito-bancario..git
+cd credito-bancario.
 ```
 
 ### 2. Crear y activar el entorno virtual
